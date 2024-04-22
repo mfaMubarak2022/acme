@@ -8,7 +8,7 @@ public class AcmeApplication {
 
 	public static void main(String[] args) {
 
-		int ERDF;
+		//int ERDF;
 		SpringApplication.run(AcmeApplication.class, args);
 	}
 
